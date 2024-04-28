@@ -45,6 +45,7 @@ function SinglePage() {
   return (
     <div className="w-[85%] m-auto">
       <Navbar />
+  
       <div className="flex mt-16 gap-x-5">
         <div className="content flex-[5]">
           <img
